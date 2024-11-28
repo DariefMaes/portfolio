@@ -2,7 +2,6 @@ import Navbar from "../Home/components/Navbar";
 import Skill from "../Home/components/Skill";
 import Description from "./components/Description";
 import Hero from "./components/Hero";
-import ImageCard from "./components/ImageCard";
 import { motion } from "motion/react";
 
 function CollegeSpillover() {
